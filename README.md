@@ -60,19 +60,19 @@ IDENTITY:
 ⚙️ NINJA TOOLS | Forged in the Digital Fire
 
 <div align="center">
-[![Splunk] https://img.shields.io/badge/SPLUNK-Master-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0a0a0f
-[![CrowdStrike] https://img.shields.io/badge/CROWDSTRIKE-Falcon-FF6B6B?style=for-the-badge&logo=crowdstrike&logoColor=white&labelColor=0a0a0f
-[![Burp_Suite] https://img.shields.io/badge/BURP_SUITE-Professional-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0a0a0f
-[![Metasploit] https://img.shields.io/badge/METASPLOIT-Framework-6C5CE7?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0a0a0f
-[![Havoc-C2-Framework] https://img.shields.io/badge/HAVOC-C2_Framework-9B59B6?style=for-the-badge&labelColor=0a0a0f
-[![WireShark] https://img.shields.io/badge/WIRESHARK-Packet_Ninja-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0f
-[![Hashcat] https://img.shields.io/badge/HASHCAT-Password_Cracking-D35400?style=for-the-badge&labelColor=0a0a0f
-[![SQLMAP] https://img.shields.io/badge/SQLMAP-Database_Penetration-3498DB?style=for-the-badge&labelColor=0a0a0f
-[![John-the-ripper] https://img.shields.io/badge/JOHN_THE_RIPPER-Cracking_Tool-2C3E50?style=for-the-badge&labelColor=0a0a0f
-[![MobSF] https://img.shields.io/badge/MOBSF-Mobile_Security-1ABC9C?style=for-the-badge&logo=mobile&logoColor=white&labelColor=0a0a0f
-[![OWASP-ZAP] https://img.shields.io/badge/OWASP_ZAP-Web_App_Testing-FF3E00?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0a0a0f
-[![AIRCRACK-NG] https://img.shields.io/badge/AIRCRACK--NG-Wireless_Audit-2980B9?style=for-the-badge&labelColor=0a0a0f
-[![NIKTO-Web-Scanner] https://img.shields.io/badge/NIKTO-Web_Scanner-27AE60?style=for-the-badge&labelColor=0a0a0f
+[![Splunk](https://img.shields.io/badge/SPLUNK-Master-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0a0a0f)]
+[![CrowdStrike](https://img.shields.io/badge/CROWDSTRIKE-Falcon-FF6B6B?style=for-the-badge&logo=crowdstrike&logoColor=white&labelColor=0a0a0f)]
+[![Burp_Suite](https://img.shields.io/badge/BURP_SUITE-Professional-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0a0a0f)]
+[![Metasploit](https://img.shields.io/badge/METASPLOIT-Framework-6C5CE7?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0a0a0f)]
+[![Havoc-C2-Framework](https://img.shields.io/badge/HAVOC-C2_Framework-9B59B6?style=for-the-badge&labelColor=0a0a0f)]
+[![WireShark](https://img.shields.io/badge/WIRESHARK-Packet_Ninja-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0f)]
+[![Hashcat](https://img.shields.io/badge/HASHCAT-Password_Cracking-D35400?style=for-the-badge&labelColor=0a0a0f)]
+[![SQLMAP](https://img.shields.io/badge/SQLMAP-Database_Penetration-3498DB?style=for-the-badge&labelColor=0a0a0f)]
+[![John-the-ripper](https://img.shields.io/badge/JOHN_THE_RIPPER-Cracking_Tool-2C3E50?style=for-the-badge&labelColor=0a0a0f)]
+[![MobSF](https://img.shields.io/badge/MOBSF-Mobile_Security-1ABC9C?style=for-the-badge&logo=mobile&logoColor=white&labelColor=0a0a0f)]
+[![OWASP-ZAP](https://img.shields.io/badge/OWASP_ZAP-Web_App_Testing-FF3E00?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0a0a0f)]
+[![AIRCRACK-NG](https://img.shields.io/badge/AIRCRACK--NG-Wireless_Audit-2980B9?style=for-the-badge&labelColor=0a0a0f)]
+[![NIKTO-Web-Scanner](https://img.shields.io/badge/NIKTO-Web_Scanner-27AE60?style=for-the-badge&labelColor=0a0a0f)]
 </div>
 
 
