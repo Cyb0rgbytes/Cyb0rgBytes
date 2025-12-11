@@ -1,5 +1,13 @@
-🛡️ Cyb0rgBytes | Omar Chan
-Cyb0rg Cyber Security Ninja ⚡🕶️
+<div align="center">🕶️ CYB0RG NINJA | OMAR CHAN</div>Cyb0rg Cyber Security Ninja ⚡🕶️
+
+
+root@cyberspace:~# status --cyber-ninja
+[✓] SYSTEMS: ONLINE
+[✓] THREATS: HUNTING
+[✓] CODE: EXECUTING
+[✓] MISSION: SECURE_ALL_THE_THINGS
+
+
 Blue Team SOC Analyst | Red Team Penetration Tester
 
     "Understanding systems by breaking them, securing them by building better."
@@ -16,3 +24,184 @@ Blue Team SOC Analyst | Red Team Penetration Tester
 ![Followers](https://img.shields.io/github/followers/Cyb0rgBytes?color=00FF00&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/Cyb0rgBytes?color=00FF00&style=flat-square)
 
+🥷 NINJA PROFILE
+<div align="center">
+yaml
+
+IDENTITY:
+  Name: "Omar Chan"
+  Codename: "Cyb0rgBytes"
+  Status: "Active in Shadows"
+  Clearance: "Red & Blue Team Operations"
+  Specialization: "Digital Kenjutsu"
+  Dojo: "The Open Source Matrix"
+
+</div>
+
+    "In the silence of the code, I move. In the chaos of the breach, I strike. I am the shadow between the bits, the guardian at the gateway, the breach in the wall. I do not choose sides - I master both. The system is my dojo, the network my battlefield."
+
+
+🛡️ CYBER NINJA ARSENAL
+🎯 CORE DISCIPLINES | The Way of the Digital Warrior
+
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ 🥷 OFFENSIVE KATA (Red Team)          🛡️ DEFENSIVE KATA (Blue Team)   ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ • Penetration Testing                • Incident Response             ║
+║ • Social Engineering                 • Threat Hunting                ║
+║ • Post-Remediation Validation        • Malware Analysis              ║
+║ • Exploit Development                • Log Analysis                  ║
+║ • Vulnerability Assessment           • Threat Intelligence           ║
+║ • Red Team Operations                • SOC Analysis                  ║
+║ • Adversary Simulation               • Compliance & Risk Management  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+⚙️ NINJA TOOLS | Forged in the Digital Fire
+
+<div align="center">
+[![Splunk](https://img.shields.io/badge/SPLUNK-Master-000000?style=flat-square&logo=splunk&logoColor=white)](https://splunk.com)
+[![Crowdstrike](https://img.shields.io/badge/CROWDSTRIKE-Falcon-FF6B6B?style=flat-square&logo=crowdstrike&logoColor=white)](https://crowdstrike.com)
+[![LogRhythm](https://img.shields.io/badge/LOGRHYTHM-SIEM_Expert-00A8E0?style=flat-square)](https://logrhythm.com)
+[![Burp Suite](https://img.shields.io/badge/BURP_SUITE-Professional-FF6B6B?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![Metasploit](https://img.shields.io/badge/METASPLOIT-Framework-6C5CE7?style=flat-square&logo=metasploit&logoColor=white)](https://metasploit.com)
+[![Havoc C2](https://img.shields.io/badge/HAVOC-C2_Framework-9B59B6?style=flat-square)](https://github.com/HavocFramework)
+[![Wireshark](https://img.shields.io/badge/WIRESHARK-Packet_Ninja-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://wireshark.org)
+[![Hashcat](https://img.shields.io/badge/HASHCAT-Password_Cracking-D35400?style=flat-square)](https://hashcat.net/hashcat)
+[![SQLMap](https://img.shields.io/badge/SQLMAP-Database_Penetration-3498DB?style=flat-square)](http://sqlmap.org)
+[![John the Ripper](https://img.shields.io/badge/JOHN_THE_RIPPER-Cracking_Tool-2C3E50?style=flat-square)](https://www.openwall.com/john)
+[![MobSF](https://img.shields.io/badge/MOBSF-Mobile_Security-1ABC9C?style=flat-square&logo=mobile&logoColor=white)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Web_App_Testing-FF3E00?style=flat-square&logo=owasp&logoColor=white)](https://zaproxy.org)
+[![Aircrack-ng](https://img.shields.io/badge/AIRCRACK--NG-Wireless_Audit-2980B9?style=flat-square)](https://aircrack-ng.org)
+[![Nikto](https://img.shields.io/badge/NIKTO-Web_Scanner-27AE60?style=flat-square)](https://github.com/sullo/nikto)
+</div>
+
+💻 PROGRAMMING KATANA | The Art of Code
+
+# My Digital Katana Collection
+katana = {
+    "offensive": {
+        "python": "For exploits, automation, and tool crafting",
+        "powershell": "For Windows domain dominance and post-exploitation",
+        "bash": "For Unix system navigation and scripting"
+    },
+    "defensive": {
+        "python": "For log analysis, threat detection, and automation",
+        "sql": "For database security and query analysis",
+        "regex": "For pattern matching in logs and data"
+    }
+}
+
+<div align="center">
+    
+[![Python](https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0f)](https://python.org)
+[![PowerShell](https://img.shields.io/badge/POWERSHELL-7+-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0a0a0f)](https://microsoft.com/powershell)
+[![Bash](https://img.shields.io/badge/BASH-Scripting_Black_Belt-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0a0a0f)](https://gnu.org/software/bash)
+[![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-Firewall_Jujitsu-00B894?style=for-the-badge&logo=network&logoColor=white&labelColor=0a0a0f)]()
+
+</div>
+
+🏆 NINJA ACHIEVEMENTS | CTF Conquests
+
+<div align="center">
+  ╔══════════════════════════════════════════════════╗
+  ║               🥇 CTF HALL OF FAME 🥇             ║
+  ╠══════════════════════════════════════════════════╣
+  ║ █ TOP 2nd   → Emirates Palace Cyber Week 2019    ║
+  ║ █ TOP 5th   → CyberWeek 2020-2022                ║
+  ║ █ TOP 11th  → GITEX CTF.ae (CyberGate Defense)   ║
+  ║ █ TOP 20th  → IDEX Conference SOLO CTF           ║
+  ║ █ TOP 100th → Multiple Global CTF Competitions   ║
+  ║ █ HACKER    → HackTheBox Rank Achieved           ║
+  ╚══════════════════════════════════════════════════╝
+    
+🎮 CAPTURE THE FLAG LEADERSHIP
+
+
+  Warrior_Status:
+  CTF_Team_Leader: "True"
+  Tactics: "Strategic coordination, skill specialization assignment"
+  Specialization: "Binary exploitation, web application security, cryptography"
+  Dojo_Conferences: "Speaker and team leader at multiple security conferences"
+  Training_Ground: "HackTheBox Pro Lab conqueror"
+</div>
+
+📈 MISSION STATISTICS
+<div align="center">
+    
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyb0rgBytes&show_icons=true&theme=dark&bg_color=0a0a0f&title_color=00FF00&icon_color=00FF00&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true&custom_title=CYB0RG_NINJA_STATS)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb0rgBytes&layout=compact&theme=dark&bg_color=0a0a0f&title_color=00FF00&text_color=ffffff&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cyb0rgBytes&theme=dark&background=0a0a0f&stroke=00FF00&fire=00FF00&ring=00FF00&currStreakLabel=00FF00&dates=ffffff)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Cyb0rgBytes&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers)
+
+</div>
+  
+🗡️ NINJA PROJECTS | Digital Kunai Collection
+
+In Progress ....>
+
+
+🎯 NINJA OPERATIONS | Mission Parameters
+🔄 INCIDENT RESPONSE PROTOCOL
+
+graph LR
+    A[🚨 Incident Detected] --> B[🕵️ Threat Assessment]
+    B --> C[🔍 Containment]
+    C --> D[⚔️ Eradication]
+    D --> E[🛡️ Recovery]
+    E --> F[📊 Lessons Learned]
+    F --> G[🔄 Process Improvement]
+    
+    🎭 SOCIAL ENGINEERING DOJO
+
+Social_Engineering_Arsenal:
+  Phishing_Simulations: "Custom campaigns and awareness training"
+  Training_Delivery: "Employee security awareness programs"
+  Reporting: "Detailed risk assessment and remediation guidance"
+
+📡 NINJA NETWORK | Connect With the Shadow
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-omar@cyb0rg.tech-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)]()
+[![PGP Key](https://img.shields.io/badge/PGP_PUBLIC_KEY-Available-9B59B6?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white&labelColor=0a0a0f)]()
+[![Blog](https://img.shields.io/badge/TECHNICAL_BLOG-Cyber_Ninja_Notes-FF5722?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a0a0f)](https://cyb0rgbytes.medium.com)
+[![CTF Time](https://img.shields.io/badge/CTF_TIME-Profile-8E44AD?style=for-the-badge&logo=clock&logoColor=white&labelColor=0a0a0f)](https://ctftime.org/user/)
+
+
+📜 NINJA CREED
+
+    "I am the silent guardian in the network shadows.
+    I wield the katana of knowledge and the shuriken of skill.
+    I honor the code, protect the data, and challenge the vulnerabilities.
+    My dojo is GitHub, my sensei is experience,
+    and my mission is eternal vigilance in the digital realm."
+
+https://github-readme-activity-graph.vercel.app/graph?username=Cyb0rgBytes&theme=react-dark&hide_border=true&area=true&color=00FF00&line=00FF00&point=FFFFFF&bg_color=0a0a0f
+</div>
+
+<div align="center">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⡿⠛⠉⠉⠛⠻⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⣀⣸⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣷⣤⣤⣤⣤⣾⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠿⠿⠿⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀THE END⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+⚡ "SEEK, PENETRATE, SECURE"
+
+Last profile update: 2025
+Status: Active in the Shadows
+Encryption: Always Enabled
+</div>
+
+
+    
