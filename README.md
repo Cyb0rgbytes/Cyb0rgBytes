@@ -60,7 +60,8 @@ IDENTITY:
 ⚙️ NINJA TOOLS | Forged in the Digital Fire
 
 <div align="center">
-[![Splunk](https://img.shields.io/badge/SPLUNK-Master-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0a0a0f)](https://www.splunk.com)
+
+[![Splunk](https://img.shields.io/badge/SPLUNK-Master-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0a0a0f)](https://www.splunk.com)    
 [![CrowdStrike](https://img.shields.io/badge/CROWDSTRIKE-Falcon-FF6B6B?style=for-the-badge&logo=crowdstrike&logoColor=white&labelColor=0a0a0f)](https://www.crowdstrike.com)
 [![Burp_Suite](https://img.shields.io/badge/BURP_SUITE-Professional-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0a0a0f)](https://portswigger.net/burp)
 [![Metasploit](https://img.shields.io/badge/METASPLOIT-Framework-6C5CE7?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0a0a0f)](https://www.metasploit.com)
