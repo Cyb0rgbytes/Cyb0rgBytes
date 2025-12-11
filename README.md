@@ -1,16 +1,25 @@
-## Hi there 👋
+🛡️ Cyb0rgBytes | Omar Chan
+Cyb0rg Cyber Security Ninja ⚡🕶️
+Blue Team SOC Analyst | Red Team Penetration Tester
 
-<!--
-**Cyb0rgbytes/Cyb0rgBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    "Understanding systems by breaking them, securing them by building better."
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ██████╗██╗   ██╗██████╗ ██████╗ ██████╗  ██████╗ ██████╗ ██╗   ██╗████████╗███████╗
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗██╔════╝ ██╔══██╗██║   ██║╚══██╔══╝██╔════╝
+██║      ╚████╔╝ ██████╔╝██████╔╝██████╔╝██║  ███╗██████╔╝██║   ██║   ██║   █████╗  
+██║       ╚██╔╝  ██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔══██╗██║   ██║   ██║   ██╔══╝  
+╚██████╗   ██║   ██████╔╝██║  ██║██████╔╝╚██████╔╝██║  ██║╚██████╔╝   ██║   ███████╗
+ ╚═════╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
+
+ https://img.shields.io/badge/Twitter-@Cyb0rgBytes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/LinkedIn-Omar_Chan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/TryHackMe-Cyb0rgBytes-212C42?style=for-the-badge&logo=tryhackme&logoColor=white
+https://img.shields.io/badge/HackTheBox-Cyb0rgBytes-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black
+https://img.shields.io/badge/GitHub-Cyb0rgBytes-181717?style=for-the-badge&logo=github&logoColor=white
+
+https://komarev.com/ghpvc/?username=Cyb0rgBytes&color=00FF00&style=flat-square
+https://img.shields.io/github/followers/Cyb0rgBytes?color=00FF00&style=flat-square
+https://img.shields.io/github/stars/Cyb0rgBytes?color=00FF00&style=flat-square
+</div>
