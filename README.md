@@ -15,9 +15,9 @@ Blue Team SOC Analyst | Red Team Penetration Tester
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-@Cyb0rgBytes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Cyb0rgBytes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Chan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-chan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Chan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarchanawani/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Cyb0rgBytes-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Cyb0rgBytes)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Cyb0rgBytes-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/your_id_here)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Cyb0rgBytes-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/197607)
 [![GitHub](https://img.shields.io/badge/GitHub-Cyb0rgBytes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyb0rgBytes)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Cyb0rgBytes&color=00FF00&style=flat-square)
