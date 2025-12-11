@@ -60,21 +60,22 @@ IDENTITY:
 ⚙️ NINJA TOOLS | Forged in the Digital Fire
 
 <div align="center">
-[![Splunk](https://img.shields.io/badge/SPLUNK-Master-000000?style=flat-square&logo=splunk&logoColor=white)](https://splunk.com)
-[![Crowdstrike](https://img.shields.io/badge/CROWDSTRIKE-Falcon-FF6B6B?style=flat-square&logo=crowdstrike&logoColor=white)](https://crowdstrike.com)
-[![LogRhythm](https://img.shields.io/badge/LOGRHYTHM-SIEM_Expert-00A8E0?style=flat-square)](https://logrhythm.com)
-[![Burp Suite](https://img.shields.io/badge/BURP_SUITE-Professional-FF6B6B?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![Metasploit](https://img.shields.io/badge/METASPLOIT-Framework-6C5CE7?style=flat-square&logo=metasploit&logoColor=white)](https://metasploit.com)
-[![Havoc C2](https://img.shields.io/badge/HAVOC-C2_Framework-9B59B6?style=flat-square)](https://github.com/HavocFramework)
-[![Wireshark](https://img.shields.io/badge/WIRESHARK-Packet_Ninja-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://wireshark.org)
-[![Hashcat](https://img.shields.io/badge/HASHCAT-Password_Cracking-D35400?style=flat-square)](https://hashcat.net/hashcat)
-[![SQLMap](https://img.shields.io/badge/SQLMAP-Database_Penetration-3498DB?style=flat-square)](http://sqlmap.org)
-[![John the Ripper](https://img.shields.io/badge/JOHN_THE_RIPPER-Cracking_Tool-2C3E50?style=flat-square)](https://www.openwall.com/john)
-[![MobSF](https://img.shields.io/badge/MOBSF-Mobile_Security-1ABC9C?style=flat-square&logo=mobile&logoColor=white)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Web_App_Testing-FF3E00?style=flat-square&logo=owasp&logoColor=white)](https://zaproxy.org)
-[![Aircrack-ng](https://img.shields.io/badge/AIRCRACK--NG-Wireless_Audit-2980B9?style=flat-square)](https://aircrack-ng.org)
-[![Nikto](https://img.shields.io/badge/NIKTO-Web_Scanner-27AE60?style=flat-square)](https://github.com/sullo/nikto)
+https://img.shields.io/badge/SPLUNK-Master-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0a0a0f
+https://img.shields.io/badge/CROWDSTRIKE-Falcon-FF6B6B?style=for-the-badge&logo=crowdstrike&logoColor=white&labelColor=0a0a0f
+https://img.shields.io/badge/LOGRHYTHM-SIEM_Expert-00A8E0?style=for-the-badge&labelColor=0a0a0f
+https://img.shields.io/badge/BURP_SUITE-Professional-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0a0a0f
+https://img.shields.io/badge/METASPLOIT-Framework-6C5CE7?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0a0a0f
+https://img.shields.io/badge/HAVOC-C2_Framework-9B59B6?style=for-the-badge&labelColor=0a0a0f
+https://img.shields.io/badge/WIRESHARK-Packet_Ninja-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0f
+https://img.shields.io/badge/HASHCAT-Password_Cracking-D35400?style=for-the-badge&labelColor=0a0a0f
+https://img.shields.io/badge/SQLMAP-Database_Penetration-3498DB?style=for-the-badge&labelColor=0a0a0f
+https://img.shields.io/badge/JOHN_THE_RIPPER-Cracking_Tool-2C3E50?style=for-the-badge&labelColor=0a0a0f
+https://img.shields.io/badge/MOBSF-Mobile_Security-1ABC9C?style=for-the-badge&logo=mobile&logoColor=white&labelColor=0a0a0f
+https://img.shields.io/badge/OWASP_ZAP-Web_App_Testing-FF3E00?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0a0a0f
+https://img.shields.io/badge/AIRCRACK--NG-Wireless_Audit-2980B9?style=for-the-badge&labelColor=0a0a0f
+https://img.shields.io/badge/NIKTO-Web_Scanner-27AE60?style=for-the-badge&labelColor=0a0a0f
 </div>
+
 
 💻 PROGRAMMING KATANA | The Art of Code
 
@@ -166,10 +167,7 @@ Social_Engineering_Arsenal:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-omar@cyb0rg.tech-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)]()
-[![PGP Key](https://img.shields.io/badge/PGP_PUBLIC_KEY-Available-9B59B6?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white&labelColor=0a0a0f)]()
 [![Blog](https://img.shields.io/badge/TECHNICAL_BLOG-Cyber_Ninja_Notes-FF5722?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a0a0f)](https://cyb0rgbytes.medium.com)
-[![CTF Time](https://img.shields.io/badge/CTF_TIME-Profile-8E44AD?style=for-the-badge&logo=clock&logoColor=white&labelColor=0a0a0f)](https://ctftime.org/user/)
 
 
 📜 NINJA CREED
