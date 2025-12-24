@@ -27,21 +27,6 @@ Blue Team SOC Analyst | Red Team Penetration Tester
 🛡️ CYBER NINJA ARSENAL
 🎯 CORE DISCIPLINES | The Way of the Digital Warrior
 
-
-╔══════════════════════════════════════════════════════════════════════╗
-║ 🥷 OFFENSIVE KATA (Red Team)          🛡️ DEFENSIVE KATA (Blue Team)   ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ • Penetration Testing                • Incident Response             ║
-║ • Social Engineering                 • Threat Hunting                ║
-║ • Post-Remediation Validation        • Malware Analysis              ║
-║ • Exploit Development                • Log Analysis                  ║
-║ • Vulnerability Assessment           • Threat Intelligence           ║
-║ • Red Team Operations                • SOC Analysis                  ║
-║ • Adversary Simulation               • Compliance & Risk Management  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-⚙️ NINJA TOOLS | Forged in the Digital Fire
-
 <div align="center">
 
 [![Splunk](https://img.shields.io/badge/SPLUNK-Master-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0a0a0f)](https://www.splunk.com)    
@@ -59,23 +44,6 @@ Blue Team SOC Analyst | Red Team Penetration Tester
 [![NIKTO-Web-Scanner](https://img.shields.io/badge/NIKTO-Web_Scanner-27AE60?style=for-the-badge&labelColor=0a0a0f)](https://github.com/sullo/nikto)
 </div>
 
-
-💻 PROGRAMMING KATANA | The Art of Code
-
-# My Digital Katana Collection
-katana = {
-    "offensive": {
-        "python": "For exploits, automation, and tool crafting",
-        "powershell": "For Windows domain dominance and post-exploitation",
-        "bash": "For Unix system navigation and scripting"
-    },
-    "defensive": {
-        "python": "For log analysis, threat detection, and automation",
-        "sql": "For database security and query analysis",
-        "regex": "For pattern matching in logs and data"
-    }
-}
-
 <div align="center">
     
 [![Python](https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0f)](https://python.org)
@@ -83,11 +51,7 @@ katana = {
 [![Bash](https://img.shields.io/badge/BASH-Scripting_Black_Belt-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0a0a0f)](https://gnu.org/software/bash)
 [![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-Firewall_Jujitsu-00B894?style=for-the-badge&logo=network&logoColor=white&labelColor=0a0a0f)]()
 
-</div>
 
-🏆 NINJA ACHIEVEMENTS | CTF Conquests
-
-<div align="center">
   ╔══════════════════════════════════════════════════╗
   ║               🥇 CTF HALL OF FAME 🥇             ║
   ╠══════════════════════════════════════════════════╣
@@ -97,10 +61,9 @@ katana = {
   ║ █ TOP 20th  → IDEX Conference SOLO CTF           ║
   ║ █ TOP 100th → Multiple Global CTF Competitions   ║
   ║ █ HACKER    → HackTheBox Rank Achieved           ║
-  ╚══════════════════════════════════════════════════╝
+
     
 🎮 CAPTURE THE FLAG LEADERSHIP
-
 
   Warrior_Status:
   CTF_Team_Leader: "True"
@@ -108,7 +71,7 @@ katana = {
   Specialization: "Binary exploitation, web application security, cryptography"
   Dojo_Conferences: "Speaker and team leader at multiple security conferences"
   Training_Ground: "HackTheBox Pro Lab conqueror"
-</div>
+
 
 📈 MISSION STATISTICS
 <div align="center">
@@ -123,11 +86,6 @@ katana = {
 
 </div>
   
-🗡️ NINJA PROJECTS | Digital Kunai Collection
-
-In Progress ....>
-
-
 🎯 NINJA OPERATIONS | Mission Parameters
 🔄 INCIDENT RESPONSE PROTOCOL
 
@@ -146,25 +104,15 @@ Social_Engineering_Arsenal:
   Training_Delivery: "Employee security awareness programs"
   Reporting: "Detailed risk assessment and remediation guidance"
 
-📡 NINJA NETWORK | Connect With the Shadow
-
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/TECHNICAL_BLOG-Cyber_Ninja_Notes-FF5722?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a0a0f)](https://cyb0rgbytes.medium.com)
 
 
-📜 NINJA CREED
-
-    "I am the silent guardian in the network shadows.
-    I wield the katana of knowledge and the shuriken of skill.
-    I honor the code, protect the data, and challenge the vulnerabilities.
-    My dojo is GitHub, my sensei is experience,
-    and my mission is eternal vigilance in the digital realm."
 
 https://github-readme-activity-graph.vercel.app/graph?username=Cyb0rgBytes&theme=react-dark&hide_border=true&area=true&color=00FF00&line=00FF00&point=FFFFFF&bg_color=0a0a0f
 </div>
 
-<div align="center">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀
