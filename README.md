@@ -52,17 +52,6 @@ Blue Team SOC Analyst | Red Team Penetration Tester
 [![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-Firewall_Jujitsu-00B894?style=for-the-badge&logo=network&logoColor=white&labelColor=0a0a0f)]()
 
 
-  ╔══════════════════════════════════════════════════╗
-  ║               🥇 CTF HALL OF FAME 🥇             ║
-  ╠══════════════════════════════════════════════════╣
-  ║ █ TOP 2nd   → Emirates Palace Cyber Week 2019    ║
-  ║ █ TOP 5th   → CyberWeek 2020-2022                ║
-  ║ █ TOP 11th  → GITEX CTF.ae (CyberGate Defense)   ║
-  ║ █ TOP 20th  → IDEX Conference SOLO CTF           ║
-  ║ █ TOP 100th → Multiple Global CTF Competitions   ║
-  ║ █ HACKER    → HackTheBox Rank Achieved           ║
-
-    
 🎮 CAPTURE THE FLAG LEADERSHIP
 
   Warrior_Status:
