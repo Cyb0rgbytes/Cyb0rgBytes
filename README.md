@@ -52,14 +52,7 @@ Blue Team SOC Analyst | Red Team Penetration Tester
 [![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-Firewall_Jujitsu-00B894?style=for-the-badge&logo=network&logoColor=white&labelColor=0a0a0f)]()
 
 
-🎮 CAPTURE THE FLAG LEADERSHIP
 
-  Warrior_Status:
-  CTF_Team_Leader: "True"
-  Tactics: "Strategic coordination, skill specialization assignment"
-  Specialization: "Binary exploitation, web application security, cryptography"
-  Dojo_Conferences: "Speaker and team leader at multiple security conferences"
-  Training_Ground: "HackTheBox Pro Lab conqueror"
 
 
 📈 MISSION STATISTICS
