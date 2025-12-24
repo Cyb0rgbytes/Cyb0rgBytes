@@ -3,9 +3,7 @@
 
 root@cyberspace:~#
 
-
-
-Blue Team SOC Analyst | Red Team Penetration Tester
+Blue Team SOC Analyst | Red Team Penetration Tester 
 
     "Understanding systems by breaking them, securing them by building better."
 
@@ -24,8 +22,7 @@ Blue Team SOC Analyst | Red Team Penetration Tester
 🥷 NINJA PROFILE
 
     "In the silence of the code, I move. In the chaos of the breach, I strike. I am the shadow between the bits, the guardian at the gateway, the breach in the wall. I do not choose sides - I master both. The system is my dojo, the network my battlefield."
-🛡️ CYBER NINJA ARSENAL
-🎯 CORE DISCIPLINES | The Way of the Digital Warrior
+
 
 <div align="center">
 
@@ -52,10 +49,6 @@ Blue Team SOC Analyst | Red Team Penetration Tester
 [![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-Firewall_Jujitsu-00B894?style=for-the-badge&logo=network&logoColor=white&labelColor=0a0a0f)]()
 
 
-
-
-
-📈 MISSION STATISTICS
 <div align="center">
     
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyb0rgBytes&show_icons=true&theme=dark&bg_color=0a0a0f&title_color=00FF00&icon_color=00FF00&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true&custom_title=CYB0RG_NINJA_STATS)
@@ -68,23 +61,6 @@ Blue Team SOC Analyst | Red Team Penetration Tester
 
 </div>
   
-🎯 NINJA OPERATIONS | Mission Parameters
-🔄 INCIDENT RESPONSE PROTOCOL
-
-graph LR
-    A[🚨 Incident Detected] --> B[🕵️ Threat Assessment]
-    B --> C[🔍 Containment]
-    C --> D[⚔️ Eradication]
-    D --> E[🛡️ Recovery]
-    E --> F[📊 Lessons Learned]
-    F --> G[🔄 Process Improvement]
-    
-    🎭 SOCIAL ENGINEERING DOJO
-
-Social_Engineering_Arsenal:
-  Phishing_Simulations: "Custom campaigns and awareness training"
-  Training_Delivery: "Employee security awareness programs"
-  Reporting: "Detailed risk assessment and remediation guidance"
 
 <div align="center">
 
