@@ -1,11 +1,8 @@
 <div align="center">🕶️ CYB0RG NINJA | OMAR CHAN</div>Cyb0rg Cyber Security Ninja ⚡🕶️
 
 
-root@cyberspace:~# status --cyber-ninja
-[✓] SYSTEMS: ONLINE
-[✓] THREATS: HUNTING
-[✓] CODE: EXECUTING
-[✓] MISSION: SECURE_ALL_THE_THINGS
+root@cyberspace:~#
+
 
 
 Blue Team SOC Analyst | Red Team Penetration Tester
@@ -25,22 +22,8 @@ Blue Team SOC Analyst | Red Team Penetration Tester
 ![Stars](https://img.shields.io/github/stars/Cyb0rgBytes?color=00FF00&style=flat-square)
 
 🥷 NINJA PROFILE
-<div align="center">
-yaml
-
-IDENTITY:
-  Name: "Omar Chan"
-  Codename: "Cyb0rgBytes"
-  Status: "Active in Shadows"
-  Clearance: "Red & Blue Team Operations"
-  Specialization: "Digital Kenjutsu"
-  Dojo: "The Open Source Matrix"
-
-</div>
 
     "In the silence of the code, I move. In the chaos of the breach, I strike. I am the shadow between the bits, the guardian at the gateway, the breach in the wall. I do not choose sides - I master both. The system is my dojo, the network my battlefield."
-
-
 🛡️ CYBER NINJA ARSENAL
 🎯 CORE DISCIPLINES | The Way of the Digital Warrior
 
